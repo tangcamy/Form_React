@@ -1,3 +1,10 @@
+# MY First React Form!
+- 產品規格與功能：
+  1. 簡單的註冊表單提交，具有獨立的按鈕元件
+    - 2個輸入欄位：姓名、電子郵件
+    - 1個提交按鈕
+  2. 當點擊提交時，會將使用者數入的內容顯示在下方的方匡中。
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
